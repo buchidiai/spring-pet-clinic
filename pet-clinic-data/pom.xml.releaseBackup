@@ -48,12 +48,12 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
-                <configuration>
+<!--                <configuration>-->
 <!--                    <checkModificationExcludes>-->
 <!--                        <checkModificationExclude>pom.xml</checkModificationExclude>-->
 <!--                        <checkModificationExclude>**</checkModificationExclude>-->
 <!--                    </checkModificationExcludes>-->
-                </configuration>
+<!--                </configuration>-->
             </plugin>
         </plugins>
     </build>
